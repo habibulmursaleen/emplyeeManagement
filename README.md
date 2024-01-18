@@ -1,6 +1,5 @@
-# Project Title
+# Employee Management from Wise Consultancy
 
-Description of your project.
 
 ## Table of Contents
 
@@ -10,9 +9,7 @@ Description of your project.
   - [Frontend](#frontend)
   - [Backend](#backend)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+ 
 ## Introduction
 
 Brief introduction about your project.
