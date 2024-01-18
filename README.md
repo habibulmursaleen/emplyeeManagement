@@ -73,5 +73,5 @@ The API supports the following operations:
 
     Create Employee: POST /api/v1/employee
     Retrieve All Employees: GET /api/v1/employee
-    Update Employee: PUT /api/employees/{id}
-    Delete Employee: DELETE /api/employees/{id}
+    Update Employee: PUT /api/employee/{id}
+    Delete Employee: DELETE /api/employee/{id}
